@@ -1,0 +1,25 @@
+{
+  "name": "isj",
+  "version": "1.0.1",
+  "description": "Electronic businesscard for Igor Szyporyn Jørgensen",
+  "main": "./bin/card.js",
+  "bin": {
+    "isj": "./bin/card.js"
+  },
+  "scripts": {
+    "build:pre": "rimraf bin",
+    "build": "npm run build:pre && tsc",
+    "release": "npm run build && npm publish",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Igor Szyporyn Jørgensen",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0"
+  },
+  "devDependencies": {
+    "rimraf": "^3.0.2",
+    "typescript": "^3.9.7"
+  }
+}
