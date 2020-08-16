@@ -2,7 +2,10 @@
   "name": "isj",
   "version": "1.0.6",
   "description": "Igor Szyporyn Jørgensen",
-  "keywords": ["awesome"],
+  "keywords": [
+    "awesome",
+    "compatible"
+  ],
   "main": "bin/card.js",
   "bin": {
     "isj": "bin/card.js"
@@ -13,7 +16,10 @@
     "release": "npm version patch && npm run build && npm publish",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Igor Szyporyn Jørgensen",
+  "author": {
+    "name": "Igor Szyporyn",
+    "email": "igor.szyporyn@gmail.com"
+  },
   "license": "ISC",
   "dependencies": {
     "boxen": "^4.2.0",
