@@ -2,9 +2,9 @@
   "name": "isj",
   "version": "1.0.5",
   "description": "Electronic businesscard for Igor Szyporyn Jørgensen",
-  "main": "./bin/card.js",
+  "main": "bin/card.js",
   "bin": {
-    "isj": "./bin/card.js"
+    "isj": "bin/card.js"
   },
   "scripts": {
     "build:pre": "rimraf bin",
