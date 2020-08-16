@@ -1,6 +1,6 @@
 {
   "name": "isj",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Electronic businesscard for Igor Szyporyn Jørgensen",
   "main": "./bin/card.js",
   "bin": {
