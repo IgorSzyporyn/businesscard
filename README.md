@@ -4,12 +4,12 @@
   <p align="center">
     <img src="https://raw.githubusercontent.com/IgorSzyporyn/businesscard/master/assets/avatar.png" alt="Igor Szyporyn Jørgensen" title="Igor Szyporyn Jørgensen" />
   </p>
-  <div align="center">
+  <p align="center">
     Igor Szyporyn Jørgensen
-  </div>
-  <div align="center">
+  </p>
+  <p align="center">
     Senior Front End Developer
-  </div>
+  </p>
   <p>&nbsp;</p>
   <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="Javascript"><img src="https://raw.githubusercontent.com/IgorSzyporyn/businesscard/master/assets/logo-javascript.png" alt="javascript" /></a>
