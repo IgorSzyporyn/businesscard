@@ -12,8 +12,8 @@
   </div>
   <p>&nbsp;</p>
   <p align="center">
-    <a href="https://www.w3.org/" title="HTML5/CSS3/JS">
-      <img src="https://raw.githubusercontent.com/IgorSzyporyn/businesscard/master/assets/logo-html5-js-css.png" alt="html5-css3-js" />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="Javascript">
+      <img src="https://raw.githubusercontent.com/IgorSzyporyn/businesscard/master/assets/javascript-css.png" alt="javascript" />
     </a>
     <a href="https://www.typescriptlang.org/" title="Typescript">
       <img src="https://raw.githubusercontent.com/IgorSzyporyn/businesscard/master/assets/logo-typescript.png" alt="typescript" />
