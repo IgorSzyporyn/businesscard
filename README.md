@@ -15,16 +15,16 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="Javascript">
       <img src="https://raw.githubusercontent.com/IgorSzyporyn/businesscard/master/assets/logo-javascript.png" alt="javascript" />
     </a>
-    &nbsp;<a href="https://www.typescriptlang.org/" title="Typescript">
+    <a href="https://www.typescriptlang.org/" title="Typescript">
       <img src="https://raw.githubusercontent.com/IgorSzyporyn/businesscard/master/assets/logo-typescript.png" alt="typescript" />
     </a>
-    &nbsp;<a href="https://nodejs.org/en/" title="NodeJS">
+    <a href="https://nodejs.org/en/" title="NodeJS">
       <img src="https://raw.githubusercontent.com/IgorSzyporyn/businesscard/master/assets/logo-nodejs.png" alt="nodejs" />
     </a>
-    &nbsp;<a href="https://reactjs.org/" title="React">
+    <a href="https://reactjs.org/" title="React">
       <img src="https://raw.githubusercontent.com/IgorSzyporyn/businesscard/master/assets/logo-react.png" alt="react" />
     </a>
-    &nbsp;<a href="https://www.sencha.com/products/extjs/" title="Sencha ExtJS">
+    <a href="https://www.sencha.com/products/extjs/" title="Sencha ExtJS">
       <img src="https://raw.githubusercontent.com/IgorSzyporyn/businesscard/master/assets/logo-sencha-extjs.png" alt="sencha extjs" />
     </a>
   </p>
@@ -48,7 +48,7 @@ $ npx isj
 
 - My most useful site(s): [Google](https://www.google.com/) & [Typescript React Cheat Sheet](https://www.saltycrane.com/cheat-sheets/typescript/react/latest/)
 
-  Wanted to have only one - but then it would just be google.com, and I have to admit that I use google a lot - why should I spend time solving a problem someone has already encountered before and solved.
+  Wanted to have only one - but then it would just be google.com, and I have to admit that I use google a lot - why should I spend time solving a problem someone has already encountered before, and probably solved.
 
 - My favorite NPM package: [storybook](https://www.npmjs.com/package/storybook)
   
