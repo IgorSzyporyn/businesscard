@@ -10,6 +10,7 @@
   <div align="center">
     Senior Front End Developer
   </div>
+  <p>&nbsp;</p>
   <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="Javascript">
       <img src="https://raw.githubusercontent.com/IgorSzyporyn/businesscard/master/assets/logo-javascript.png" alt="javascript" />
