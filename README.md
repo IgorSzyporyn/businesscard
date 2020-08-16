@@ -34,12 +34,12 @@ $ npx isj
 
 - My best online read ever: [More Padding, Please!](https://medium.com/wayfair-design/more-padding-please-b95e19422acc)
   
-  I wanted to hug the author after reading.
+  >I wanted to hug the author after reading.
 
 - My most useful site(s): [Google](https://www.google.com/) & [Typescript React Cheat Sheet](https://www.saltycrane.com/cheat-sheets/typescript/react/latest/)
 
-  Wanted to have only one - but then it would just be google.com, and I have to admit that I use google a lot - why should I spend time solving a problem someone has already encountered before, and probably solved.
+  >Wanted to have only one - but then it would just be google.com, and I have to admit that I use google a lot - why should I spend time solving a problem someone has already encountered before, and probably solved.
 
 - My favorite NPM package: [storybook](https://www.npmjs.com/package/storybook)
   
-  I just love this tool!
+  >I just love this tool!
