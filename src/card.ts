@@ -16,13 +16,14 @@ const data = {
   workplace: chalk.white('Charlie Tango A/S'),
   twitter: chalk.cyan('https://twitter.com/IgorSzyporyn'),
   github: chalk.cyan('https://github.com/IgorSzyporyn'),
-  linkedin: chalk.cyan('https://linkedin.com/in/igor-szyporyn-jørgensen-2a041418/'),
+  linkedin: chalk.cyan('https://linkedin.com/in/IgorSzyporyn'),
+  npm: chalk.cyan('https://npmjs.org/package/isj'),
   npx: chalk.white('npx isj'),
-  labelTwitter: chalk.white.bold('       Twitter:'),
-  labelGitHub: chalk.white.bold('        GitHub:'),
-  labelLinkedIn: chalk.white.bold('      LinkedIn:'),
-  labelCard: chalk.white.bold('          Card:'),
-  labelNpm: chalk.white.bold('  NPM Packages:'),
+  labelTwitter: chalk.white.bold('    Twitter:'),
+  labelGitHub: chalk.white.bold('     GitHub:'),
+  labelNpm: chalk.white.bold('        NPM:'),
+  labelLinkedIn: chalk.white.bold('   LinkedIn:'),
+  labelNpmPackages: chalk.white.bold('  NPM Packages:'),
   npmStorybookFacelift: chalk.cyan('https://npmjs.org/package/storybook-facelift'),
   npmReactTimeoutButton: chalk.cyan('                 https://npmjs.org/package/react-timeout-button'),
   npmEnvOverlay: chalk.cyan('                 https://npmjs.org/package/env-overlay'),
@@ -33,11 +34,9 @@ const heading = `${data.name}`
 const title = `${data.title}`
 const workplace = `${data.workplace}`
 const twittering = `${data.labelTwitter}  ${data.twitter}`
+const npming = `${data.labelNpm}  ${data.npm}`
 const githubing = `${data.labelGitHub}  ${data.github}`
 const linkedining = `${data.labelLinkedIn}  ${data.linkedin}`
-const npm = `${data.labelNpm}  ${data.npmStorybookFacelift}`
-const npmReactTimeoutButton = data.npmReactTimeoutButton
-const npmEnvOverlay = data.npmEnvOverlay
 
 const output =
   heading +
@@ -48,17 +47,12 @@ const output =
   newline +
   newline +
   newline +
-  twittering +
-  newline +
   githubing +
+  newline +
+  npming +
   newline +
   linkedining +
   newline +
-  newline +
-  npm +
-  newline +
-  npmReactTimeoutButton + 
-  newline +
-  npmEnvOverlay
+  twittering 
 
 console.log(chalk.green(boxen(output, options)))
