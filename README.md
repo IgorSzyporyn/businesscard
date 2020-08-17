@@ -43,3 +43,19 @@ $ npx isj
 - My favorite NPM package: [storybook](https://www.npmjs.com/package/storybook)
   
   >I just love this tool!
+
+- My go-to framework [react](https://reactjs.org/)
+
+  >Whats not to love - really?
+
+- My first IDE/editor - [FrontPage](https://en.wikipedia.org/wiki/Microsoft_FrontPage)
+
+  >Well I say IDE... it was Frontpage... ok next topic
+
+- The first search engine url I can remember using (if I can even remember it right)
+
+  >https://www.astalavista.box.sk - just looked it up, re-launched and looks quite dark-web like...
+
+- That weird weird URL that you go to - often, for some reason [well open it](https://zbag.roundshot.com/matterhornglacierparadise/)
+
+  >Pretty sure you now read this and expected to get Rick Rolled (if you even clicked)
