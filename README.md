@@ -99,9 +99,9 @@ It weights in at 3.3KB, and 1.3KB gzipped.
 #### Why?
 I've had a weird inexplicible urge to create a button like the one Netflix uses to countdown to next episode automatically loading.
 
-The component plays very well with Material UI etc.. well you can read all that from the links
+The component plays very well with Material UI etc.. well you can read all that from the links.
 
-This repo has a storybook online you can check out as well here (this uses my last package `storybook-facelift`)
+This repo has a storybook online you can check out as well (this uses my last package `storybook-facelift`).
 
 <p>&nbsp;</p>
 
