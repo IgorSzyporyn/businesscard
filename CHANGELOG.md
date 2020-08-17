@@ -1,6 +1,6 @@
-### 1.3.0 (2020-08-16)
+#### 1.3.1 (2020-08-17)
 
 ##### Documentation Changes
 
-* **readme:**  wrapped my quotes about links in quotes (f48043d7)
+* **readme:**  more witty stuff haha (3225559c)
 
