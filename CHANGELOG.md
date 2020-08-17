@@ -1,6 +1,6 @@
-#### 1.3.1 (2020-08-17)
+#### 1.3.2 (2020-08-17)
 
 ##### Documentation Changes
 
-* **readme:**  more witty stuff haha (3225559c)
+*  added my npm repos to readme (ff3b20a2)
 
