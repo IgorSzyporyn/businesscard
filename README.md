@@ -91,9 +91,9 @@ It weights in at 3.3KB, and 1.3KB gzipped.
 
 <p>&nbsp;</p>
 
-### react-countdown-button
-- [npm](https://www.npmjs.com/package/react-countdown-button)
-- [github](https://github.com/IgorSzyporyn/react-countdown-button)
+### react-timeout-button
+- [npm](https://www.npmjs.com/package/react-timeout-button)
+- [github](https://github.com/IgorSzyporyn/react-timeout-button)
 - [storybook](https://igorszyporyn.github.io/react-timeout-button)
 
 #### Why?
