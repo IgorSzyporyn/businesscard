@@ -17,7 +17,7 @@ const data = {
   twitter: chalk.cyan('https://twitter.com/IgorSzyporyn'),
   github: chalk.cyan('https://github.com/IgorSzyporyn'),
   linkedin: chalk.cyan('https://linkedin.com/in/IgorSzyporyn'),
-  npm: chalk.cyan('https://npmjs.org/package/isj'),
+  npm: chalk.cyan('https://npmjs.org/package/igor-szyporyn'),
   npx: chalk.white('npx isj'),
   labelTwitter: chalk.white.bold('    Twitter:'),
   labelGitHub: chalk.white.bold('     GitHub:'),
