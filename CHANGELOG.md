@@ -1,6 +1,6 @@
-#### 1.3.4 (2020-08-17)
+#### 1.3.5 (2020-08-17)
 
 ##### Bug Fixes
 
-* **docs:**  wrong damn url to timeout component (23e904e6)
+*  removed npm packages from card and added updated linkedin (28f13c01)
 
