@@ -13,7 +13,7 @@ const data = {
   name: chalk.white('Igor Szyporyn Jørgensen'),
   handle: chalk.cyan('IgorSzyporyn'),
   title: chalk.white('Senior Frontend Developer'),
-  workplace: chalk.white('Charlie Tango A/S'),
+  workplace: chalk.white('Nuuday'),
   twitter: chalk.cyan('https://twitter.com/IgorSzyporyn'),
   github: chalk.cyan('https://github.com/IgorSzyporyn'),
   linkedin: chalk.cyan('https://linkedin.com/in/IgorSzyporyn'),
