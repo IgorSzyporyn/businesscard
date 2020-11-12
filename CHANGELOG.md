@@ -1,6 +1,6 @@
-#### 1.3.6 (2020-08-17)
+### 1.4.0 (2020-11-12)
 
 ##### Bug Fixes
 
-*  changed npm package name to igor-szyporyn (017664f0)
+*  updated workplace (38ce0832)
 
