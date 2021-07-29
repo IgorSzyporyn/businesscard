@@ -12,8 +12,8 @@ const options: boxen.Options = {
 const data = {
   name: chalk.white('Igor Szyporyn Jørgensen'),
   handle: chalk.cyan('IgorSzyporyn'),
-  title: chalk.white('Senior Frontend Developer'),
-  workplace: chalk.white('Nuuday'),
+  title: chalk.white('Lead Frontend Developer'),
+  workplace: chalk.white('Appstract'),
   twitter: chalk.cyan('https://twitter.com/IgorSzyporyn'),
   github: chalk.cyan('https://github.com/IgorSzyporyn'),
   linkedin: chalk.cyan('https://linkedin.com/in/IgorSzyporyn'),
