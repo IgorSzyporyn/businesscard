@@ -1,6 +1,6 @@
-### 1.4.0 (2020-11-12)
+### 1.5.0 (2021-07-29)
 
 ##### Bug Fixes
 
-*  updated workplace (38ce0832)
+*  updated place of business (eeeb9d0b)
 
