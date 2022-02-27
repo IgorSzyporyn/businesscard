@@ -1,6 +1,6 @@
-### 1.5.0 (2021-07-29)
+### 1.6.0 (2022-02-27)
 
 ##### Bug Fixes
 
-*  updated place of business (eeeb9d0b)
+*  updated current workplace (4bd6d1dc)
 
