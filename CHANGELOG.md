@@ -2,5 +2,6 @@
 
 ##### Bug Fixes
 
+*  package.lock change (6e0b5827)
 *  updated workplace (5d88a299)
 
